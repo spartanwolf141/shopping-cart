@@ -1,0 +1,19 @@
+body{
+    background-color: skyblue;
+    background-image: 'C:\Users\Micha\mayPrep\shopping-cart\layout\version-1.png';
+}
+
+#stuff{
+    border: 3px solid green;
+}
+
+#product{
+    border: 5px solid black;
+}
+
+.price{
+    position: relative;
+  right: 150px;
+  
+  
+}
